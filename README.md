@@ -1,4 +1,4 @@
-![logo]({{ site.url }}/images/Tiedon-juurilla.jpg)
+![logo](https://jussiholtta.github.io/tiedonjuurella/images/Tiedon-juurilla.jpg)
 
 ## Tiedonjuurilla
 
