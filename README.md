@@ -16,5 +16,6 @@ The goal is to discover the science that connects these items and makes both pos
 
 Using external sources is allowed, you don't need to be an expert to play!
 
-The round continues as long as the discussion continues and people keep discovering new things. To contribute to the shared learning of everyon else in the world playing the game, share your discoveries on social media with \#tiedonjuurella
+The round continues as long as the discussion continues and people keep discovering new things. To contribute to the shared learning of everyon else in the world playing the game, share your discoveries on social media with \#tiedonjuurilla
 
+(yes, we know the url says tiedonjuurella, my bad. Didn't have time to fix the video so we're keeping this happy accident)
