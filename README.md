@@ -50,6 +50,6 @@ In related news: Jamie Oliver now officially is a field of science combining Ser
 Päivi Hietanen, Laura Hänninen, Jussi Hölttä, Maija Kaipainen, Nanna Särkkä and Jari Vesanen
 
 Created for the Tiede, tieto ja totuus -hackathon in 2019
-[https://skopehacks.fi]
+[https://skopehacks.fi](https://skopehacks.fi/)
 
-[https://creativecommons.org/licenses/by/4.0/]
+[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
