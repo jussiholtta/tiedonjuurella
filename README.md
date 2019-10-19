@@ -2,11 +2,15 @@
 
 We are Tiededruidit, a team in the Tiede, tieto ja totuus -hackathon 2019. We are on a mission to make the science behind everyday life.
 
-Tiedonjuurilla is a collaborative learning game designed to cultivate curiosity and the joy of discovery.
+Tiedonjuurilla is a collaborative learning game designed to cultivate curiosity and the joy of discovery. The goal is to discover the science that connects everyday items and makes them possible.
 
-To play the game you need a bunch of people, something to write with and something to write on.
+Players need to explain their choices to each other and learn together. Using external sources is allowed, you don't need to be an expert to play!
 
-The game starts with everyone writing down one everyday object for the deck.
+Join us on a journey to discover the science behind everyday life and how everything is connected.
+
+### Gameplay
+
+The game starts with everyone writing down one everyday object for the game deck.
 
 Two objects are chosen randomly and the game itself revolves around them.
 
@@ -16,7 +20,6 @@ Players need to explain their choices to each other and learn together.
 
 Using external sources is allowed, you don't need to be an expert to play!
 
-Join us on a journey to discover the science behind everyday life and how everything is connected.
 
 ### Markdown
 
