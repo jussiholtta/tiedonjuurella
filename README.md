@@ -36,3 +36,25 @@ The two main contexts we were thinking while designing it were a pub with a grou
 The links between the items can be anything from free association to well researched links. For us as a group of experts the best category was fields of science.
 
 By varying the extent in which people need to justify their additions (ranging from peer reviewed meta-analysis to convincing personal argument). 
+
+### Bar variant created post hack by Jussi (thanks to the testing crew)
+Stack of ready made of (mostly) everyday objects and concepts.
+1. Deal two concepts
+2. The fastest to come up with a field of science that connects the two gets the pair
+3. Repeat until deck runs out
+4. Don't count points because everybody wins when we learn together
+
+In related news: Jamie Oliver now officially is a field of science combining Service Design and Indiction Stoves.
+
+## Tiedonjuurilla created by
+Päivi Hietanen
+Laura Hänninen
+Jussi Hölttä
+Maija Kaipainen
+Nanna Särkkä
+Jari Vesanen
+
+Created for the Tiede, tieto ja totuus -hackathon in 2019
+(https://skopehacks.fi)
+
+(https://creativecommons.org/licenses/by/4.0/)
