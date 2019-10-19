@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Tiedonjuurilla
 
-You can use the [editor on GitHub](https://github.com/jussiholtta/tiedonjuurella/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are Tiededruidit, a team in the Tiede, tieto ja totuus -hackathon 2019. We are on a mission to make the science behind everyday life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tiedonjuurilla is a collaborative learning game designed to cultivate curiosity and the joy of discovery.
+
+To play the game you need a bunch of people, something to write with and something to write on.
+
+The game starts with everyone writing down one everyday object for the deck.
+
+Two objects are chosen randomly and the game itself revolves around them.
+
+The goal is to discover the science that connects these items and makes both possible.
+
+Players need to explain their choices to each other and learn together.
+
+Using external sources is allowed, you don't need to be an expert to play!
+
+Join us on a journey to discover the science behind everyday life and how everything is connected.
 
 ### Markdown
 
