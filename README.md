@@ -1,5 +1,3 @@
-![logo]({{ site.url }}/images/Tiedon-juurilla.jpg)
-
 ## Tiedonjuurilla
 
 We are Tiededruidit, a team in the Tiede, tieto ja totuus -hackathon 2019. We are on a mission to make the science behind everyday life.
