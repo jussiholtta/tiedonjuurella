@@ -12,6 +12,9 @@ Join us on a journey to discover the science behind everyday life and how everyt
 
 ### Gameplay
 
+![gameplay image](https://jussiholtta.github.io/tiedonjuurella/images/IMG_6395.jpg
+)
+
 To start the game everyone writes down one everyday object for the game deck. Two objects are chosen randomly and a round of the game revolves around them.
 
 The goal is to discover the science that connects these items and makes both possible. Players need to explain their choices to each other and learn together.
@@ -20,4 +23,4 @@ Using external sources is allowed, you don't need to be an expert to play!
 
 The round continues as long as the discussion continues and people keep discovering new things. To contribute to the shared learning of everyon else in the world playing the game, share your discoveries on social media with \#tiedonjuurilla
 
-(yes, we know the url says tiedonjuurella, my bad. Didn't have time to fix the video so we're keeping this happy accident)
+*yes, we know the url says tiedonjuurella, my bad. Didn't have time to fix the video so we're keeping this happy accident*
