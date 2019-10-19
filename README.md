@@ -25,6 +25,8 @@ The round continues as long as the discussion continues and people keep discover
 
 *yes, we know the url says tiedonjuurella, my bad. Didn't have time to fix the video so we're keeping this happy accident*
 
+![gameplay image2](https://jussiholtta.github.io/tiedonjuurella/images/DDD864E6-0FCB-4066-9C56-B197E34CD34F.jpeg)
+
 ## Game alternatives and contexts
 
 The game can be played anywhere with anyone. The more diverse the group, the more likely it is that everyone will learn.
