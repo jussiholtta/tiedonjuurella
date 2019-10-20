@@ -36,6 +36,8 @@ The links between the items can be anything from free association to well resear
 
 By varying the extent in which people need to justify their additions (ranging from peer reviewed meta-analysis to convincing personal argument). 
 
+An advanced version is to play the round normally first and then see what you could remove without making it impossible for the two things to exist (this has not been tested in practice yet).
+
 ### Bar variant created post hack by Jussi (thanks to the testing crew)
 Stack of ready made of (mostly) everyday objects and concepts.
 1. Deal two concepts
