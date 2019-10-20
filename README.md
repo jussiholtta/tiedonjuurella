@@ -2,7 +2,7 @@
 
 ## Tiedonjuurilla
 
-We are Tiededruidit, a team in the Tiede, tieto ja totuus -hackathon 2019. We are on a mission to make the science behind everyday life.
+We are Tiededruidit, a team in the Tiede, tieto ja totuus -hackathon 2019. We are on a mission to make the science behind everyday life visible.
 
 Tiedonjuurilla is a collaborative learning game designed to cultivate curiosity and the joy of discovery. The goal is to discover the science that connects everyday items and makes them possible.
 
